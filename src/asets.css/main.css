@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Raleway&display=swap');
+.classwork {background-color: #fff;
+}
+.container {
+    max-width: 1236px;
+    margin: 0 auto;
+}
+.container__text-1title {
+max-width: 166px;
+border-radius: nullpx;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+.container__content {
+    display: flex;
+}
+.container__text-title {
+
+font-family: Hind Siliguri;
+font-size: 61px;
+font-weight: 600;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: left;
+
+max-width: 
+555px;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+.marker{
+  background-color:rgba(0, 140, 255, 0.103);
+  ;
+  color: rgba(35, 35, 220, 0.761);
+  font-family: Hind Siliguri;
+font-size: 61px;
+font-weight: 400;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+
+max-width: 
+555px;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+.container__text-diskription {
+    max-width: 515px;
+    font-family: Hind Siliguri;
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: left;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+
+}
+.container__bottom-text {
+    display: flex;
+    /* justify-content:space-between; */
+   
+}
+.button {
+    background-color:rgba(36, 124, 192, 1);
+    color: #fff;
+    border: none;
+    width: 151px;
+    padding: 16px 35px;
+   
+
+}
+.prise {
+    padding: 0 20px 0 20px;
+}
+.container__sponsors {
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
